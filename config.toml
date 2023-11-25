@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://recipes.yowiee.com/"
 languageCode = "en-us"
 title = "My Recipes"
 theme = "cookbook"

@@ -3,11 +3,11 @@ draft: false
 title: "Cauliflower and sweet potato curry"
 author: "Best Recipes"
 recipe_image: images/1980-cauliflower-and-sweet-potato-curry-954062-1.jpg #The image for your recipe
-# image_width: 512
-# image_height: 512
+image_width: 643
+image_height: 428
 date: 2023-05-12T22:05:03+02:00
-tags: ["cake", "dessert", "vegetarian", "dinner", "lunch", "entree", "snack"] #tags for your recipe
-# tagline: "A tasty vegetarian meal, or great as part of an Indian banquet"
+tags: ["vegetarian", "dinner"] #tags for your recipe
+tagline: "A tasty vegetarian meal, or great as part of an Indian banquet"
 servings: 6
 # prep_time: 15 #in minutes #can be BLANK
 # cook: true # If we are cooking this, leave true, if we are cooling set to false

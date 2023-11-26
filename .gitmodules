@@ -1,4 +1,0 @@
-[submodule "themes/cookbook"]
-	path = themes/cookbook
-	url = https://github.com/Yowiee/cookbook.git
-	branch = main

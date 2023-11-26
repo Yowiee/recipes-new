@@ -6,7 +6,7 @@ recipe_image: images/german-potato-salad.webp #The image for your recipe
 image_width: 596
 image_height: 596
 date: 2021-01-25T19:53:02-05:00
-tags: ["appitizer", "tag2"] #tags for your recipe
+tags: ["salad", "side"] #tags for your recipe
 tagline: "A great potato salad recipe"
 servings: 4
 prep_time: 15 #in minutes #can be BLANK

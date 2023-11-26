@@ -2,9 +2,9 @@
 draft: false
 title: "German Potato Salad"
 author: Jared Swets
-recipe_image: images/recipe-headers/german-potato-salad.webp #The image for your recipe
-image_width: 512
-image_height: 512
+recipe_image: images/german-potato-salad.webp #The image for your recipe
+image_width: 596
+image_height: 596
 date: 2021-01-25T19:53:02-05:00
 tags: ["appitizer", "tag2"] #tags for your recipe
 tagline: "A great potato salad recipe"

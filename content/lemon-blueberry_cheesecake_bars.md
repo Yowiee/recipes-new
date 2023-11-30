@@ -4,7 +4,7 @@ title: "Lemon-Blueberry Cheesecake Bars"
 author: "Internet"
 recipe_image: images/lemon-blueberry_cheesecake_bars.jpg #The image for your recipe
 image_width: 600
-image_height: 406
+image_height: 416
 date: 2023-11-12T22:05:03+02:00
 tags: ["dessert", "slice"] #tags for your recipe
 # tagline: ""

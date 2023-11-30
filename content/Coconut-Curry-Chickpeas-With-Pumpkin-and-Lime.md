@@ -7,12 +7,12 @@ image_width: 600
 image_height: 400
 date: 2023-05-12T22:05:03+02:00
 tags: ["vegetarian", "dinner"] #tags for your recipe
-# tagline: "Canned pumpkin purée and coconut milk, heavily seasoned with curry spices and lots of fresh lime juice, make a sweet-sharp sauce for chickpeas."
+tagline: "Canned pumpkin purée and coconut milk, heavily seasoned with curry spices and lots of fresh lime juice, make a sweet-sharp sauce for chickpeas."
 servings: 6
-# prep_time: 15 #in minutes #can be BLANK
-# cook: true # If we are cooking this, leave true, if we are cooling set to false
-# cook_increment: minutes # set to minutes or hours
-# cook_time: 15 #in minutes or hours #can be BLANK
+prep_time: 15 #in minutes #can be BLANK
+cook: true # If we are cooking this, leave true, if we are cooling set to false
+cook_increment: minutes # set to minutes or hours
+cook_time: 15 #in minutes or hours #can be BLANK
 # calories:  #in kcal #can be BLANK
 
 # For ingredient subheadings (if you use them), please use the h4 header.  For print view I have those elements targeted

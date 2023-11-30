@@ -2,17 +2,17 @@
 draft: false
 title: "Cauliflower and sweet potato curry"
 author: "Best Recipes"
-recipe_image: images/1980-cauliflower-and-sweet-potato-curry-954062-1.jpg #The image for your recipe
+recipe_image: images/cauliflower-and-sweet-potato-curry.jpg #The image for your recipe
 image_width: 643
 image_height: 428
 date: 2023-05-12T22:05:03+02:00
 tags: ["vegetarian", "dinner"] #tags for your recipe
 tagline: "A tasty vegetarian meal, or great as part of an Indian banquet"
 servings: 6
-# prep_time: 15 #in minutes #can be BLANK
-# cook: true # If we are cooking this, leave true, if we are cooling set to false
-# cook_increment: minutes # set to minutes or hours
-# cook_time: 25 #in minutes or hours #can be BLANK
+prep_time: 15 #in minutes #can be BLANK
+cook: true # If we are cooking this, leave true, if we are cooling set to false
+cook_increment: minutes # set to minutes or hours
+cook_time: 25 #in minutes or hours #can be BLANK
 # calories:  #in kcal #can be BLANK
 
 # For ingredient subheadings (if you use them), please use the h4 header.  For print view I have those elements targeted

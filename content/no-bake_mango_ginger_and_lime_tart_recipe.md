@@ -3,8 +3,8 @@ draft: false
 title: "No-bake mango, ginger and lime tart recipe"
 author: "Benjamina Ebuehi"
 recipe_image: images/no-bake_mango_ginger_and_lime_tart_recipe.jpg #The image for your recipe
-# image_width: 512
-# image_height: 512
+image_width: 412
+image_height: 418
 date: 2023-11-12T22:05:03+02:00
 tags: ["cake", "dessert"] #tags for your recipe
 tagline: "A zingy no-bake tart with a temptingly crunchy base and tropical mango and lime filling"

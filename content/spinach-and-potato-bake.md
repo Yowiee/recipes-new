@@ -3,16 +3,16 @@ draft: false
 title: "Spinach and Potato Bake"
 author: "Best Recipes"
 recipe_image: images/spinach-and-potato-bake-recipe-522773-1.jpg #The image for your recipe
-# image_width: 512
-# image_height: 512
+image_width: 643
+image_height: 428
 date: 2023-05-12T22:05:03+02:00
 tags: ["vegetarian", "dinner"] #tags for your recipe
-# tagline: "A great vegetarian dish for everyone."
+tagline: "A great vegetarian dish for everyone."
 servings: 6
-# prep_time: 10 #in minutes #can be BLANK
-# cook: true # If we are cooking this, leave true, if we are cooling set to false
-# cook_increment: hours # set to minutes or hours
-# cook_time: 1 #in minutes or hours #can be BLANK
+prep_time: 10 #in minutes #can be BLANK
+cook: true # If we are cooking this, leave true, if we are cooling set to false
+cook_increment: hours # set to minutes or hours
+cook_time: 1 #in minutes or hours #can be BLANK
 # calories:  #in kcal #can be BLANK
 
 # For ingredient subheadings (if you use them), please use the h4 header.  For print view I have those elements targeted

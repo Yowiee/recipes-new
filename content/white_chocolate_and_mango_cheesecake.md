@@ -7,7 +7,7 @@ image_width: 640
 image_height: 428
 date: 2023-11-12T22:05:03+02:00
 tags: ["cake", "dessert"] #tags for your recipe
-# tagline: "A zingy no-bake tart with a temptingly crunchy base and tropical mango and lime filling"
+tagline: "A zingy no-bake tart with a temptingly crunchy base and tropical mango and lime filling"
 servings: 8
 prep_time: 30 #in minutes #can be BLANK
 # cook: true # If we are cooking this, leave true, if we are cooling set to false

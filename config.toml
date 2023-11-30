@@ -1,6 +1,6 @@
-baseURL = "https://recipes.yowiee.com/"
+baseURL = "https://recipes-new.yowiee.com/"
 languageCode = "en-us"
-title = "My Recipes"
+title = "New Recipes"
 theme = "cookbook"
 sectionPagesMenu = "main"
 

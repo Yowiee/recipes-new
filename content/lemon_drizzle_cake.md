@@ -3,7 +3,7 @@ draft: false
 title: "Lemon Drizzle Cake"
 author: "Donna Hay"
 recipe_image: images/lemon_drizzle_cake.jpg #The image for your recipe
-image_width: 620
+image_width: 450
 image_height: 349
 date: 2023-11-12T22:05:03+02:00
 tags: ["dessert", "cake", "gluten free"] #tags for your recipe

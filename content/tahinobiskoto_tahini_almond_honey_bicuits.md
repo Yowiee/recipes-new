@@ -6,7 +6,7 @@ recipe_image: images/tahinobiskoto_tahini_almond_honey_bicuits.jpg #The image fo
 image_width: 600
 image_height: 442
 date: 2023-11-12T22:05:03+02:00
-tags: ["biscuit"] #tags for your recipe
+tags: ["biscuits"] #tags for your recipe
 tagline: "An amaretti-style biscuit that’s super-quick and easy to make"
 servings: 12
 prep_time: 15 #in minutes #can be BLANK

@@ -6,7 +6,7 @@ recipe_image: images/blueberry_cheesecake_muffins.jpg #The image for your recipe
 image_width: 600
 image_height: 398
 date: 2023-11-12T22:05:03+02:00
-tags: ["biscuits", "Christmas"] #tags for your recipe
+tags: ["biscuits"] #tags for your recipe
 tagline: "These blueberry muffins are buttery, soft, and moist."
 servings: 12
 prep_time: 20 #in minutes #can be BLANK

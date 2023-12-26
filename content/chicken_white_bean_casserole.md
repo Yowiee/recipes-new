@@ -6,7 +6,7 @@ recipe_image: images/chicken_white_bean_casserole.jpg #The image for your recipe
 image_width: 600
 image_height: 450
 date: 2023-05-12T22:05:03+02:00
-tags: ["vegetarian", "snack", "dinner"] #tags for your recipe
+tags: ["dinner"] #tags for your recipe
 tagline: "Zucchini ricotta fritters are a delicious and savory treat, perfect as a side dish, appetizer, or even a light meal."
 servings: 6
 prep_time: 30 #in minutes #can be BLANK

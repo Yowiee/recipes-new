@@ -7,7 +7,7 @@ image_width: 600
 image_height: 450
 date: 2023-05-12T22:05:03+02:00
 tags: ["dinner"] #tags for your recipe
-tagline: "Zucchini ricotta fritters are a delicious and savory treat, perfect as a side dish, appetizer, or even a light meal."
+#tagline: ""
 servings: 6
 prep_time: 30 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false

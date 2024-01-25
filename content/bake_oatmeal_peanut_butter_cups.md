@@ -2,7 +2,7 @@
 draft: false
 title: "No-Bake Oatmeal Peanut Butter Cups"
 author: "https://www.theroastedroot.net/"
-recipe_image: images/no-bake_oatmeal_peanut_butter_cups.jpg #The image for your recipe
+recipe_image: images/bake_oatmeal_peanut_butter_cups.jpg #The image for your recipe
 image_width: 600
 image_height: 400
 date: 2023-05-12T22:05:03+02:00

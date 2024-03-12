@@ -2,9 +2,9 @@
 draft: false
 title: "One-skillet Lasagna"
 author: "Alex Snodgrass"
-recipe_image: images/one-skillet_lasagna.jpg #The image for your recipe
+recipe_image: images/skillet_lasagna.jpg #The image for your recipe
 image_width: 600
-image_height: 338
+image_height: 425
 date: 2023-05-12T22:05:03+02:00
 tags: ["dinner"] #tags for your recipe
 #tagline: "Boldly seasoned chicken, crisp asparagus, juicy tomatoes, and orzo come together for a healthy and delicious Greek-inspired dinner"

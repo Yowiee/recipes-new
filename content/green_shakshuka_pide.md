@@ -5,7 +5,7 @@ author: "Kitchen Warehouse"
 recipe_image: images/green_shakshuka_pide.jpg #The image for your recipe
 image_width: 600
 image_height: 372
-date: 2024-03-12 20:49:33
+date: 2024-03-12T21:06:02+00:00
 tags: ["vegetarian", "snack"] #tags for your recipe
 tagline: "A tasty vegetarian meal, or great as part of an Indian banquet"
 servings: 8

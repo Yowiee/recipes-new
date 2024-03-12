@@ -5,7 +5,7 @@ author: "https://cooking.nytimes.com/"
 recipe_image: images/microwave_chocolate_pudding_cake.jpg #The image for your recipe
 image_width: 600
 image_height: 400
-date: 2024-03-12T21:13:31+00:00
+date: 2024-02-24T22:05:03+02:00
 tags: ["dessert", "cake"] #tags for your recipe
 tagline: ""
 servings: 6

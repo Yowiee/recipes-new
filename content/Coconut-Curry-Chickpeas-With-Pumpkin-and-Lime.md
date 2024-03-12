@@ -5,7 +5,7 @@ author: "NYT Cooking"
 recipe_image: images/coconut_curry_chickpeas_with_pumpkin_and_lime.jpg #The image for your recipe
 image_width: 600
 image_height: 400
-date: 2024-03-12T21:05:33+00:00
+date: 2024-02-24T22:05:03+02:00
 tags: ["vegetarian", "dinner"] #tags for your recipe
 tagline: "Canned pumpkin purée and coconut milk, heavily seasoned with curry spices and lots of fresh lime juice, make a sweet-sharp sauce for chickpeas."
 servings: 6

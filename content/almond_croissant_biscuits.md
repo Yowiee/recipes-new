@@ -5,7 +5,7 @@ author: "https://ryannordheimer.com/"
 recipe_image: images/almond_croissant_biscuits.jpg #The image for your recipe
 image_width: 481
 image_height: 337
-date: 2024-03-12T21:05:50+00:00
+date: 2024-02-24T22:05:03+02:00
 tags: ["biscuits"] #tags for your recipe
 tagline: "These delightful treats capture the essence of a traditional almond croissant but in a convenient biscuit form. "
 servings: 16

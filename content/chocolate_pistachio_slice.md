@@ -5,7 +5,7 @@ author: "NZ Herald"
 recipe_image: images/chocolate_pistachio_slice.jpg #The image for your recipe
 image_width: 600
 image_height: 400
-date: 2024-03-12T22:05:03+02:00
+date: 2024-02-24T22:05:03+02:00
 tags: ["slice", "snack"] #tags for your recipe
 tagline: "White chocolate, chopped pistachios and sweet biscuits combine in this heavenly no-bake slice recipe"
 servings: 12

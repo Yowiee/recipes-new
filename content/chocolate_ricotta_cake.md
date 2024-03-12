@@ -5,7 +5,7 @@ author: "Me"
 recipe_image: images/chocolate_ricotta_cake.jpg #The image for your recipe
 image_width: 514
 image_height: 400
-date: 2024-03-12T22:05:03+02:00
+date: 2024-02-24T22:05:03+02:00
 tags: ["cake"] #tags for your recipe
 tagline: "An irresitable cake"
 servings: 12

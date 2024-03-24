@@ -37,19 +37,11 @@ cook_time: 75 #in minutes or hours
 ## Directions
 
 1. Preheat oven to 160°C. Spray an 8 inch square glass pan with oil.
-
-First, make the topping. Mix the walnuts, 3/4 cup sugar and cinnamon in a bowl.
-
-Next, work on the cake. Beat the eggs until light and fluffy (at least five minutes). Slowly add the 1/2 cup sugar (do not dump in all at once). Add the oil and then fold in the matzo flour.
-
-Now start to layer the cake. Pour about half to two thirds of the batter in the pan. Scatter some of the topping over the batter.
-
-Gently lay half of the apples over top. If you are including raisins, add all of them now.
-
-Cover with the batter you have left.
-
-Layer the remaining apples over the batter then add the extra topping on top.
-
-Bake for 1 hour and 15 minutes.
-
-Let the cake cool completely in the pan.
+2. First, make the topping. Mix the walnuts, 3/4 cup sugar and cinnamon in a bowl.
+3. Next, work on the cake. Beat the eggs until light and fluffy (at least five minutes). Slowly add the 1/2 cup sugar (do not dump in all at once). Add the oil and then fold in the matzo flour.
+4. Now start to layer the cake. Pour about half to two thirds of the batter in the pan. Scatter some of the topping over the batter.
+5. Gently lay half of the apples over top. If you are including raisins, add all of them now.
+6. Cover with the batter you have left.
+7. Layer the remaining apples over the batter then add the extra topping on top.
+8. Bake for 1 hour and 15 minutes.
+9. Let the cake cool completely in the pan.

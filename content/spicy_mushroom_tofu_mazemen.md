@@ -7,7 +7,7 @@ image_width: 600
 image_height: 400
 date: 2024-03-21T22:05:03+02:00
 tags: ["vegetarian", "dinner"] #tags for your recipe
-tagline: "Mujadara roz is a beloved Lebanese dish that harmoniously turns pantry staples into a delightful meal"
+tagline: ""
 servings: 4
 prep_time: 10 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false

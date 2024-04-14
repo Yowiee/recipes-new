@@ -3,8 +3,8 @@ draft: false
 title: "Easy Gluten-Free Apple Cake"
 author: "Me"
 recipe_image: images/gf_apple_cake.jpg #The image for your recipe
-image_width: 580
-image_height: 329
+image_width: 388
+image_height: 310
 date: 2024-02-24T22:05:03+02:00
 tags: ["cake"] #tags for your recipe
 tagline: "An irresitable cake"

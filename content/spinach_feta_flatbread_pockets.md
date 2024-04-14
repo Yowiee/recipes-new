@@ -3,8 +3,8 @@ draft: false
 title: "Spinach and Feta Flatbread Pockets"
 author: "Kitchen Warehouse"
 recipe_image: images/spinach_feta_flatbread_pockets.jpg #The image for your recipe
-image_width: 600
-image_height: 372
+image_width: 549
+image_height: 400
 date: 2024-02-24T22:05:03+02:00
 tags: ["vegetarian", "snack"] #tags for your recipe
 tagline: "A tasty vegetarian meal, or great as part of an Indian banquet"

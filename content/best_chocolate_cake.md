@@ -7,8 +7,8 @@ image_width: 600
 image_height: 400
 date: 2024-03-20T22:05:03+02:00
 tags: ["cake", "dessert"] #tags for your recipe
-tagline: "These sweet almond macaroons, traditionally eaten during Passover festival"
-servings: 24
+tagline: ""
+servings: 10
 prep_time: 20 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false
 cook_increment: minutes # set to minutes or hours

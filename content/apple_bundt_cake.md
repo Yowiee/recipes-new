@@ -7,7 +7,7 @@ image_width: 533
 image_height: 400
 date: 2024-03-20T22:05:03+02:00
 tags: ["cake", "dessert"] #tags for your recipe
-tagline: "Layers of apples are baked with matzo meal and finished with a crunchy nutty and spice topping that create a moist apple cake"
+tagline: ""
 servings: 10
 prep_time: 20 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false

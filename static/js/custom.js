@@ -35,14 +35,14 @@ u('#searchButton').handle('click', function(e) { //use handle to automatically p
     if(searchTerm){
         u("#searchTerm").text(searchTerm);
         u('#searchButton').addClass("is-loading");
-        executeSearch(searchTerm, u("searchTerm").dataset.index);
+        executeSearch(searchTerm);
       }else {
         showAlert("Search cannot be empty!")
       }
 })
 
-function executeSearch(searchQuery, filename){
-    fetch(filename).then(r => r.json())
+function executeSearch(searchQuery){
+    fetch("/index.json").then(r => r.json())
     .then(function(data) {    
         var pages = data;
         var fuse = new Fuse(pages, fuseOptions);

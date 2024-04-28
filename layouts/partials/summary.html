@@ -1,10 +1,8 @@
 <div class="card" style="border-radius: 1%;">
     <div class="card-image">
-		<a href="{{ .Permalink }}">
         <figure class="image is-4by3">
-        <img style="border-radius: 3%; width: auto; height: 100%;" src="{{ $.Params.Recipe_image | urlize | relURL }}" alt="Recipe image">
+        <img style="border-radius: 3%;" src="{{ $.Params.Recipe_image | absURL }}" alt="Placeholder image">
         </figure>
-		</a>
     </div>
     <div class="card-content">
         <div class="media-content">
@@ -16,7 +14,7 @@
             <br>
                 <i class="fas fa-tags pr-2"></i>
                 {{ range $index, $element := $.Params.Tags }}
-               <a href="{{ $.Site.BaseURL }}/tags/{{ $element }}">{{$element}}</a>
+               <a href="/tags/{{ $element }}">{{$element}}</a>
                 {{ end }}
             <br>
             <i class="fas fa-calendar pr-4"></i>{{ .Date.Format "January 2006" }}

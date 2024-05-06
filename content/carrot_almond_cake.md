@@ -6,7 +6,7 @@ recipe_image: images/carrot_almond_cake.jpg #The image for your recipe
 image_width: 600
 image_height: 360
 date: 2023-11-12T22:05:03+02:00
-tags: ["cake", "dessert"] #tags for your recipe
+tags: ["cake", "dessert", "gluten free"] #tags for your recipe
 tagline: "While the relevance of carrots to rabbits is questionable, Easter is here and that’s excuse enough to make a carrot cake."
 servings: 8
 prep_time: 30 #in minutes #can be BLANK

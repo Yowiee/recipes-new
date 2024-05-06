@@ -5,7 +5,7 @@ author: "Taste"
 recipe_image: images/gluten-free_apple_cake.jpg #The image for your recipe
 image_width: 600
 image_height: 399
-date: 2024-03-20T22:05:03+02:00
+date: 2024-05-2T22:05:03+02:00
 tags: ["cake", "dessert"] #tags for your recipe
 tagline: "Baked to perfection, our delicious pear, ginger and honey cake is an impressive dessert."
 servings: 12

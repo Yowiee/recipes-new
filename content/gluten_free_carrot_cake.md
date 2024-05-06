@@ -6,7 +6,7 @@ recipe_image: images/gluten_free_carrot_cake.jpg #The image for your recipe
 image_width: 600
 image_height: 399
 date: 2024-05-02T22:05:03+02:00
-tags: ["cake", "dessert", "gluten free"] #tags for your recipe
+tags: ["cake", "dessert", "gluten_free"] #tags for your recipe
 tagline: ""
 servings: 12
 prep_time: 15 #in minutes #can be BLANK

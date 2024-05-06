@@ -6,7 +6,7 @@ recipe_image: images/almond_flour_apple_cake.jpg #The image for your recipe
 image_width: 600
 image_height: 494
 date: 2023-11-12T22:05:03+02:00
-tags: ["dessert", "cake", "gluten free"] #tags for your recipe
+tags: ["dessert", "cake", "gluten_free"] #tags for your recipe
 tagline: "This Almond Flour Apple Cake is a tender and moist apple cinnamon cake with streusel topping and a powdered sugar glaze. It’s naturally gluten-free and dairy-free and super easy to make!"
 servings: 10
 prep_time: 15 #in minutes #can be BLANK

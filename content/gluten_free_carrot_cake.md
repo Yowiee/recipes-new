@@ -5,14 +5,14 @@ author: "Taste"
 recipe_image: images/gluten-free_carrot_cake.jpg #The image for your recipe
 image_width: 600
 image_height: 399
-date: 2024-05-2T22:05:03+02:00
-tags: ["cake", "dessert"] #tags for your recipe
-tagline: "Baked to perfection, our delicious pear, ginger and honey cake is an impressive dessert."
+date: 2024-05-02T22:05:03+02:00
+tags: ["cake", "dessert", "gluten free"] #tags for your recipe
+tagline: ""
 servings: 12
-prep_time: 25 #in minutes #can be BLANK
+prep_time: 15 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false
 cook_increment: minutes # set to minutes or hours
-cook_time: 50 #in minutes or hours
+cook_time: 30 #in minutes or hours
 # calories:  #in kcal #can be BLANK
 
 # For ingredient subheadings (if you use them), please use the h4 header.  For print view I have those elements targeted

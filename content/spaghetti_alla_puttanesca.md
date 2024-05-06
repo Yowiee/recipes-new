@@ -5,10 +5,10 @@ author: "RecipeTinEats"
 recipe_image: images/spaghetti_alla_puttanesca.jpg #The image for your recipe
 image_width: 643
 image_height: 428
-date: 2023-05-12T22:05:03+02:00
+date: 2024-05-02T22:05:03+10:00
 tags: ["vegetarian", "dinner"] #tags for your recipe
-tagline: "A tasty vegetarian meal, or great as part of an Indian banquet"
-servings: 6
+tagline: "A traditional Italian pasta from Naples with a sauce based on pantry essentials."
+servings: 4
 prep_time: 15 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false
 cook_increment: minutes # set to minutes or hours
@@ -21,20 +21,20 @@ cook_time: 25 #in minutes or hours #can be BLANK
 
 ## Ingredients
 
-- 200g / 7oz spaghetti , or other long pasta
-- 2 tbsp extra virgin olive oil , plus more for drizzling
-- 2 garlic cloves , finely minced (knife, not garlic press)
-- 3 anchovy fillets , finely minced (Note 1)
-- 1/4 cup pitted black olives , preferably in oil, quartered (Note 2)
-- 1 tbsp capers , drained (Note 3)
-- 1/4 tsp chilli flakes (red pepper flakes)
-- 400g / 14oz can crushed tomato (or hand crush whole canned tomatoes)
-- 1/2 cup water
-- 1 tsp fresh oregano , roughly chopped (sub 1/4 tsp dried)
-- 1/8 tsp kosher / cooking salt (or 2 pinches table salt)
-- 1/8 tsp black pepper
-- 1/4 tsp sugar , if needed (depends on tomato quality, Note 4)
-- 2 tbsp fresh basil , roughly chopped (Note 6)
+- 400g spaghetti , or other long pasta
+- 4 tbsp extra virgin olive oil , plus more for drizzling
+- 4 garlic cloves , finely minced (knife, not garlic press)
+- 6 anchovy fillets , finely minced (Note 1)
+- 1/2 cup pitted black olives , preferably in oil, quartered (Note 2)
+- 2 tbsp capers , drained (Note 3)
+- 1/2 tsp chilli flakes (red pepper flakes)
+- 800g can crushed tomato (or hand crush whole canned tomatoes)
+- 1 cup water
+- 2 tsp fresh oregano , roughly chopped (sub 1/4 tsp dried)
+- 1/4 tsp kosher / cooking salt (or 2 pinches table salt)
+- 1/4 tsp black pepper
+- 1/2 tsp sugar , if needed (depends on tomato quality, Note 4)
+- 4 tbsp fresh basil , roughly chopped (Note 6)
 
 ## Directions
 

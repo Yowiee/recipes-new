@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Gluten-free Apple Cake"
+title: "Gluten free Apple Cake"
 author: "Taste"
-recipe_image: images/gluten-free_apple_cake.jpg #The image for your recipe
+recipe_image: images/gluten_free_apple_cake.jpg #The image for your recipe
 image_width: 600
 image_height: 399
 date: 2024-05-02T22:05:03+02:00

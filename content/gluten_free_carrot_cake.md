@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Gluten-free Carrot Cake"
+title: "Gluten free Carrot Cake"
 author: "Taste"
-recipe_image: images/gluten-free_carrot_cake.jpg #The image for your recipe
+recipe_image: images/gluten_free_carrot_cake.jpg #The image for your recipe
 image_width: 600
 image_height: 399
 date: 2024-05-02T22:05:03+02:00

@@ -45,14 +45,14 @@ cook_time: 30 #in minutes or hours #can be BLANK
 ## Directions
 
 1. Preheat oven to 180°C. Grease an 8-inch springform pan and line the bottom with parchment paper.
-2 Make the streusel topping by adding the 1-to-1 baking flour, brown sugar, cinnamon and butter to a small bowl. Use a fork, pastry cutter or your fingers to mix together the ingredients until crumbly. Place in the fridge until ready to use.
-3 Use the medium holes on a box grater to grate the apple. You will need 1/2 cup or 85g of grated apple. Wrap the grated apple in a paper towel and squeeze out some of the juice. The grated apple should weigh 55g after the juice is squeezed out. Set aside.
-4 In a large bowl, whisk together the almond flour, cinnamon, baking powder and salt.
-5 In a separate bowl, whisk together the eggs, sugar, oil and vanilla.
-6 Add the wet ingredients to the dry mixture and stir until just combined.
-7 Fold the grated apple into the cake batter. Do not add in the excess apple juice.
-8 Add the batter to your prepared pan and use an offset spatula to spread it out evenly. (The batter will be thick).
-9 Evenly scatter the streusel mixture on top of the batter.
-10Bake for 28-32 minutes, or until a tooth pick inserted into the middle comes out clean.
-11Let cake cool in the pan for 10 minutes before removing the sides and transferring it to a wire rack to fully cool.
-12In a small bowl, whisk together the powdered sugar and almond milk and drizzle it over the cake.
+2. Make the streusel topping by adding the 1-to-1 baking flour, brown sugar, cinnamon and butter to a small bowl. Use a fork, pastry cutter or your fingers to mix together the ingredients until crumbly. Place in the fridge until ready to use.
+3. Use the medium holes on a box grater to grate the apple. You will need 1/2 cup or 85g of grated apple. Wrap the grated apple in a paper towel and squeeze out some of the juice. The grated apple should weigh 55g after the juice is squeezed out. Set aside.
+4. In a large bowl, whisk together the almond flour, cinnamon, baking powder and salt.
+5. In a separate bowl, whisk together the eggs, sugar, oil and vanilla.
+6. Add the wet ingredients to the dry mixture and stir until just combined.
+7. Fold the grated apple into the cake batter. Do not add in the excess apple juice.
+8. Add the batter to your prepared pan and use an offset spatula to spread it out evenly. (The batter will be thick).
+9. Evenly scatter the streusel mixture on top of the batter.
+10. Bake for 28-32 minutes, or until a tooth pick inserted into the middle comes out clean.
+11. Let cake cool in the pan for 10 minutes before removing the sides and transferring it to a wire rack to fully cool.
+12. In a small bowl, whisk together the powdered sugar and almond milk and drizzle it over the cake.

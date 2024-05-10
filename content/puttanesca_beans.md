@@ -1,18 +1,18 @@
 ---
 draft: false
 title: "Puttanesca beans"
-author: "https://www.brownedbutterblondie.com/"
+author: "Delish"
 recipe_image: images/puttanesca_beans.jpg #The image for your recipe
 image_width: 300
 image_height: 300
 date: 2024-02-03T22:05:03+02:00
 tags: ["vegetarian"] #tags for your recipe
-tagline: "A tart and tangy twist on your favorite fudge brownie, these rich and chewy lemon brownies will have you hooked from the very first bite!"
-servings: 16
+tagline: "f you love spaghetti puttanesca, you’ll love this creamy bean version!"
+servings: 4
 prep_time: 15 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false
 cook_increment: minutes # set to minutes or hours
-cook_time: 25 #in minutes or hours #can be BLANK
+cook_time: 30 #in minutes or hours #can be BLANK
 # calories:  #in kcal #can be BLANK
 
 # For ingredient subheadings (if you use them), please use the h4 header.  For print view I have those elements targeted
@@ -21,32 +21,24 @@ cook_time: 25 #in minutes or hours #can be BLANK
 
 ## Ingredients
 
-- 10 tablespoons (140 g) unsalted butter
-- 110 g high quality white chocolate, chopped (not white chocolate chips)
-- 1 1/2 cups (300 g) granulated sugar
-- 3 tablespoons lemon zest (from about 3 large lemons)
-- 3 large eggs, plus one egg yolk, room temperature
-- 1 teaspoon vanilla
-- 1 1/2 cups (190 g) all-purpose flour, spooned and leveled
-- 1/2 teaspoon salt
-
-#### For Glaze
-1 1/2 cups powdered sugar, sifted
-4 to 5 tablespoons fresh lemon juice or whole milk
+- 2 tablespoons olive oil
+- 1/2 white or yellow onion, finely diced
+- 2 minced garlic cloves
+- 3 tablespoons tomato paste
+- 1/2 teaspoon red pepper flakes
+- 1 420g can diced fire-roasted tomatoes
+- 1 cup low-sodium broth
+- 2 420g white beans (navy beans, cannellini beans, great northern beans)
+- 1/2 cup chopped kalamata olives
+- 2 tablespoons capers
+- 1/2 cup finely chopped parsley
+- 1 teaspoon fresh lemon juice or red wine vinegar
+- 1/4 cup parmesan cheese (or vegan parmesan cheese)
+- Garlic bread, for serving*
 
 ## Directions
 
-1. Pre-heat oven to 180°C (160°C fan). Line an 8 x 8 inch baking pan with parchment paper. Allow the paper to hang over the sides of the pan for easy removal of the brownies once baked. Set aside.
-2. Melt the butter and chopped white chocolate in a double boiler over medium-low heat. To create a double boiler, fill a medium saucepan with about 2 inches of water. Place a heat-safe bowl over the top of the pan and add the butter and chocolate. Heat over medium-low heat, bringing the water to a simmer. Stir often to prevent the white chocolate from seizing while melting. Once melted, remove the bowl from the heat and set aside to cool for 15 to 20 minutes.
-3. In a large bowl, add the granulated sugar and lemon zest. Use your hands to massage the zest into the sugar. This helps to release the oils from the lemon zest into the sugar, amping up the lemon flavor once the brownies are baked.
-4. Add the eggs and egg yolk. Use a whisk to combine well.
-5. Add the cooled butter and chocolate mixture and the vanilla. Whisk until well combined.
-6. Add the flour and salt. Use a large spatula or wooden spoon to fold the wet and dry ingredients together. Stop when a few streaks of flour remain. Do not over mix.
-7. Transfer the batter to the prepared pan and use a spatula to gently smooth the top.
-8. Bake for approximately 25 minutes or until the edges are golden brown and the top is just barely set in the center. Do not over bake or the brownies will be dry.
-9. Remove the pan from the oven and set on a wire rack. Cool the brownies completely before adding the lemon glaze.
-
-#### For Glaze
-1. To make the glaze, combine the powdered sugar and lemon juice (or milk) in a small bowl. Whisk until smooth but pourable. If the glaze is too thin, add more powdered sugar. If too thick, add more liquid.
-2. Pour over the top of the cooled brownies and use an offset spatula to spread evenly.
-3. Top with additional lemon zest, if desired.
+1. Heat the olive oil in a large skillet over medium heat. Add the onion and cook until tender, about 5 minutes. Stir in the garlic until just fragrant.
+2. Add in the tomato pasta, red pepper flakes and cook until slightly darkened, about 1 minute, and then add in the broth, tomatoes, white beans, olives and capers. Simmer over low heat and cook until thickened, about 10-15 minutes, stirring often.
+3. Remove from heat and stir in the parsley, lemon juice and parmesan cheese. Stir and taste. You may likely not need additional salt because of the olives, capers and cheese.
+4. Serve as is, with crusty garlic bread (my favorite!) or even spooned over polenta.

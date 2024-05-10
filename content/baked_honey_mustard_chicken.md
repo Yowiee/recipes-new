@@ -6,7 +6,7 @@ recipe_image: images/baked_honey_mustard_chicken.jpg #The image for your recipe
 image_width: 600
 image_height: 400
 date: 2024-02-24T22:05:03+02:00
-tags: ["vegetarian", "dinner"] #tags for your recipe
+tags: ["dinner"] #tags for your recipe
 tagline: ""
 servings: 8
 prep_time: 15 #in minutes #can be BLANK

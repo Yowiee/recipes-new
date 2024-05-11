@@ -7,8 +7,8 @@ image_width: 519
 image_height: 357
 date: 2024-05-08T22:05:03+02:00
 tags: ["slice", "dessert"] #tags for your recipe
-tagline: "These blueberry muffins are buttery, soft, and moist."
-servings: 9
+tagline: "A big slab of lush, chocolate heaven with a velvety crumb and mascarpone icing, and just made for sharing and showing off"
+servings: 16
 prep_time: 10 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false
 cook_increment: minutes # set to minutes or hours

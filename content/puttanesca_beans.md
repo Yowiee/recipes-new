@@ -5,7 +5,7 @@ author: "Delish"
 recipe_image: images/puttanesca_beans.jpg #The image for your recipe
 image_width: 300
 image_height: 300
-date: 2024-02-03T22:05:03+02:00
+date: 2024-05-10T11:33:42+10:00
 tags: ["vegetarian"] #tags for your recipe
 tagline: "f you love spaghetti puttanesca, you’ll love this creamy bean version!"
 servings: 4
@@ -17,7 +17,6 @@ cook_time: 30 #in minutes or hours #can be BLANK
 
 # For ingredient subheadings (if you use them), please use the h4 header.  For print view I have those elements targeted
 ---
-
 
 ## Ingredients
 

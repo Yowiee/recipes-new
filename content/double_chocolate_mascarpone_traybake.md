@@ -7,7 +7,7 @@ image_width: 519
 image_height: 357
 date: 2024-05-08T22:05:03+02:00
 tags: ["slice", "dessert"] #tags for your recipe
-tagline: "A big slab of lush, chocolate heaven with a velvety crumb and mascarpone icing, and just made for sharing and showing off"
+tagline: "A big slab of lush, chocolate heaven, just made for sharing and showing off"
 servings: 16
 prep_time: 10 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false

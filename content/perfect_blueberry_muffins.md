@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Perfect Blueberry Muffins"
-author: "smittenkitchen.com"
+author: "Guardian"
 recipe_image: images/perfect_blueberry_muffins.jpg #The image for your recipe
 image_width: 592
 image_height: 392

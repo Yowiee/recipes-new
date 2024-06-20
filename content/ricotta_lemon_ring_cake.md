@@ -3,8 +3,8 @@ draft: false
 title: "Ricotta and lemon ring cake"
 author: "taste"
 recipe_image: images/ricotta_lemon_ring_cake.jpg #The image for your recipe
-image_width: 545
-image_height: 400
+image_width: 600
+image_height: 420
 date: 2024-06-01T22:05:03+02:00
 tags: ["cake", "dessert"] #tags for your recipe
 tagline: ""

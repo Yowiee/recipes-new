@@ -5,7 +5,7 @@ author: "Taste"
 recipe_image: images/pumpkin_ricotta_quinoa_fritters.jpg #The image for your recipe
 image_width: 600
 image_height: 399
-date: 2024-06-02T22:05:03+10:00
+date: 2024-06-18T22:05:03+10:00
 tags: ["dinner", "vegetarian"] #tags for your recipe
 tagline: "Fried cheese becomes a main meal in this pantry-reliant dish"
 servings: 4
@@ -23,7 +23,7 @@ cook_time: 20 #in minutes or hours #can be BLANK
 
 - 300g butternut pumpkin, peeled and chopped
 - 350g Ricotta, crumbled
-- 35g (1/3 cup) quinoa flakes
+- 35g (1/3 cup) quinoa flakes (see note)
 - 25g (1/3 cup) finely grated parmesan
 - 1/4 cup finely chopped fresh chives
 - 1 egg, lightly whisked
@@ -44,3 +44,7 @@ cook_time: 20 #in minutes or hours #can be BLANK
 3. Heat 2 tsp of the oil in a frying pan over medium-high heat. Add the basil and garlic and cook, stirring, for 30 seconds or until aromatic. Stir in the passata and sugar and simmer for 5 minutes or until thickened slightly. Season. Set aside and keep warm.
 4. Heat 1 tbs of the oil in a large non-stick frying pan over medium heat. Spoon four 1⁄4 cupfuls of pumpkin mixture into pan, spreading to 1cm thick. Cook for 2 minutes or until golden brown. Use an egg lifter to turn. Cook for a further 2 minutes or until cooked through. Transfer to a plate. Repeat with remaining oil and pumpkin mixture to make 8 fritters.
 5. Serve fritters with the tomato sauce. Sprinkle with the spinach, basil leaves and extra parmesan.
+
+#### Notes:
+- You can substitute normal quinoa for quinoa flakes, but pre-cook quinoa first and then mash
+ 

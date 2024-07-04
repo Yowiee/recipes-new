@@ -4,7 +4,7 @@ title: "Nanaimo bars"
 author: "Serious Eats"
 recipe_image: images/nanaimo_bars.jpg #The image for your recipe
 image_width: 600
-image_height: 508
+image_height: 450
 date: 2024-06-27T22:05:03+02:00
 tags: ["dessert", "snack"] #tags for your recipe
 tagline: "Nanaimo bars are an iconic Canadian treat"
@@ -24,8 +24,8 @@ cook_time: 1 #in minutes or hours #can be BLANK
 #### Base Layer:
 - 180g graham crackers
 - 100g sweetened shredded coconut
-- 65g walnuts1
-- 115g unsalted butter1
+- 65g walnuts
+- 115g unsalted butter
 - 67g granulated sugar
 - 26g unsweetened cocoa powder
 - 1 large egg, beaten

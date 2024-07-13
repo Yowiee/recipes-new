@@ -5,7 +5,7 @@ author: ""
 recipe_image: images/hedgehog_slice.jpg #The image for your recipe
 image_width: 533
 image_height: 400
-date: 2024-10-07T22:05:03+02:00
+date: 2024-07-11T22:05:03+02:00
 tags: ["cake", "snack"] #tags for your recipe
 tagline: "A chocolate, nut and biscuit slice that's been loved for generations in Australia"
 servings: 24

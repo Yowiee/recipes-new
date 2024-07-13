@@ -5,7 +5,7 @@ author: ""
 recipe_image: images/rugelach_raspberry_walnut.jpg #The image for your recipe
 image_width: 494
 image_height: 270
-date: 2024-10-07T22:05:03+02:00
+date: 2024-07-11T22:05:03+02:00
 tags: ["cake", "snack"] #tags for your recipe
 tagline: ""
 servings: 32

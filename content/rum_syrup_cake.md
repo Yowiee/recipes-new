@@ -4,8 +4,8 @@ title: "Rum syrup cake"
 author: "NZ Stuff"
 recipe_image: images/rum_syrup_cake.jpg #The image for your recipe
 image_width: 600
-image_height: 339
-date: 2024-07-27T22:05:03+02:00
+image_height: 399
+date: 2024-07-31T22:05:03+02:00
 tags: ["cake", "dessert"] #tags for your recipe
 tagline: ""
 servings: 12

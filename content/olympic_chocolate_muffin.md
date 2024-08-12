@@ -5,7 +5,7 @@ author: "Internet"
 recipe_image: images/olympic_chocolate_muffin.jpg #The image for your recipe
 image_width: 600
 image_height: 400
-date: 2024-07-31T22:05:03+02:00
+date: 2024-08-11T22:05:03+02:00
 tags: ["muffin", "dessert"] #tags for your recipe
 tagline: ""
 servings: 12

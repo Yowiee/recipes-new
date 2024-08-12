@@ -3,7 +3,7 @@ draft: false
 title: "Sugar-free banana bread"
 author: "Taste"
 recipe_image: images/banana_bread.jpg #The image for your recipe
-image_width: 490
+image_width: 468
 image_height: 400
 date: 2024-08-09T22:05:03+02:00
 tags: ["cake"] #tags for your recipe

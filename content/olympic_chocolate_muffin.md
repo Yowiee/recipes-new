@@ -23,8 +23,8 @@ cook_time: 22 #in minutes or hours #can be BLANK
 
 - 3 tsp instant coffee granules
 - 1/2 cup hot milk
-- 2 cups plain flour
-- 1/2 cup Dutch cocoa powder
+- 2 cups (300g) plain flour
+- 1/2 cup (75g) Dutch cocoa powder
 - 1¼ tsp bicarb soda
 - ¾ cup (170g) firmly packed dark brown sugar
 - 1 cup (280g) thick Greek-style yoghurt

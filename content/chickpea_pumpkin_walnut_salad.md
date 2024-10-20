@@ -4,7 +4,8 @@ title: "Chickpea, Roast Pumpkin & Walnut Salad"
 author: ""
 recipe_image: images/chickpea_pumpkin_walnut_salad.jpg #The image for your recipe
 image_width: 414
-image_height: 1006-18T22:05:03+02:00
+image_height: 400
+date: 2024-10-19T22:05:03+02:00
 tags: ["dinner", "vegetarian", "salad"] #tags for your recipe
 tagline: "Perfect for a snack or a quick, simple meal"
 servings: 3

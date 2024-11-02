@@ -8,7 +8,7 @@ image_height: 400
 date: 2024-10-25T22:05:03+02:00
 tags: ["cake"] #tags for your recipe
 tagline: ""
-servings: 16
+servings: 8
 prep_time: 15 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false
 cook_increment: minutes # set to minutes or hours
@@ -21,16 +21,8 @@ cook_time: 25 #in minutes or hours #can be BLANK
 
 ## Ingredients
 
-- 200g semi-sweet chocolate (70% cocoa), chopped
-- 200g heavy cream
-- 800g cream cheese (full fat)
-- 200g sugar
-- 6 large eggs
-- 20g cornstarch, sifted
-- 10g cocoa powder, sifted
-
 - 450 g Cream cheese, room temperature
-- 100g Dark chocolate, 65-70%
+- 200g Dark chocolate, 65-70%
 - 100 g sugar
 - 1 tbsp (7 g) Cocoa powder
 - 1 tsp Instant coffee

@@ -21,19 +21,19 @@ cook_time: 30 #in minutes or hours #can be BLANK
 
 ## Ingredients
 
-4 120g chicken cutlets
-1/2 teaspoon salt, divided
-1/2 teaspoon ground pepper, divided
-1/3 cup all-purpose flour
-3 tablespoons extra-virgin olive oil, divided
-240g mushrooms, sliced 
-1/2 cup thinly sliced shallot
-1 tablespoon thinly sliced garlic
-2 teaspoons fresh thyme leaves, plus more for garnish
-3 tablespoons balsamic vinegar
-3/4 cup unsalted chicken broth
-50g reduced-fat cream cheese, softened
-1 teaspoon Dijon mustard
+- 4 120g chicken cutlets
+- 1/2 teaspoon salt, divided
+- 1/2 teaspoon ground pepper, divided
+- 1/3 cup all-purpose flour
+- 3 tablespoons extra-virgin olive oil, divided
+- 240g mushrooms, sliced 
+- 1/2 cup thinly sliced shallot
+- 1 tablespoon thinly sliced garlic
+- 2 teaspoons fresh thyme leaves, plus more for garnish
+- 3 tablespoons balsamic vinegar
+- 3/4 cup unsalted chicken broth
+- 50g reduced-fat cream cheese, softened
+- 1 teaspoon Dijon mustard
 
 ## Directions
 

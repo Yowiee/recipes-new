@@ -6,7 +6,7 @@ recipe_image: images/air_fryer_chinese_crispy_pork_belly.jpg #The image for your
 image_width: 600
 image_height: 338
 date: 2025-01-25T23:05:03+02:00
-tags: ["air fryer", "dinner"] #tags for your recipe
+tags: ["air_fryer", "dinner"] #tags for your recipe
 tagline: ""
 servings: 4
 prep_time: 30 #in minutes #can be BLANK

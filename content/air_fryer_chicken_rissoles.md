@@ -6,7 +6,7 @@ recipe_image: images/air_fryer_chicken_rissoles.jpg #The image for your recipe
 image_width: 600
 image_height: 400
 date: 2025-01-25T22:05:03+02:00
-tags: ["air fryer", "dinner"] #tags for your recipe
+tags: ["air_fryer", "dinner"] #tags for your recipe
 tagline: ""
 servings: 4
 prep_time: 15 #in minutes #can be BLANK

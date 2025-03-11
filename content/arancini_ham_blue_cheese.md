@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Arancini with ham and blue cheese"
-author: "allrecipes
+author: "The Telegraph"
 recipe_image: images/arancini_ham_blue_cheese.jpg #The image for your recipe
 image_width: 600
 image_height: 378

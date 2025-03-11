@@ -5,7 +5,7 @@ author: "NYTCooking"
 recipe_image: images/lazy_daisy_cake.jpg #The image for your recipe
 image_width: 600
 image_height: 400
-date: 2025-03-8T22:05:03+02:00
+date: 2025-03-08T22:05:03+02:00
 tags: ["dessert"] #tags for your recipe
 tagline: "Also called Danish dream cake (drømmekage), this vintage recipe has a tender cake topped with a “lazy” frosting of butter, brown sugar and coconut."
 servings: 12

@@ -5,7 +5,7 @@ author: "Taste"
 recipe_image: images/fluffy_passionfruit_impossible_cheesecake.jpg #The image for your recipe
 image_width: 600
 image_height: 400
-date: 2025-03-8T22:05:03+02:00
+date: 2025-03-08T22:05:03+02:00
 tags: ["dessert"] #tags for your recipe
 tagline: ""
 servings: 12

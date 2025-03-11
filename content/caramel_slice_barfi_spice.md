@@ -5,7 +5,7 @@ author: "SBS Food"
 recipe_image: images/caramel_slice_barfi_spice.jpg #The image for your recipe
 image_width: 600
 image_height: 338
-date: 2025-03-8T22:05:03+02:00
+date: 2025-03-08T22:05:03+02:00
 tags: ["dessert"] #tags for your recipe
 tagline: ""
 servings: 12

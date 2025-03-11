@@ -5,7 +5,7 @@ author: "BBC GoodFood"
 recipe_image: images/easter_pudding.jpg #The image for your recipe
 image_width: 300
 image_height: 272
-date: 2025-03-8T22:05:03+02:00
+date: 2025-03-08T22:05:03+02:00
 tags: ["dessert"] #tags for your recipe
 tagline: ""
 servings: 6

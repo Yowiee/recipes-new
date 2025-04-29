@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Tahinobiskoto – tahini, almond and honey bicuits"
+title: "Tahinobiskoto – tahini, almond and honey biscuits"
 author: "Georgina Hayden"
-recipe_image: images/tahinobiskoto_tahini_almond_honey_bicuits.jpg #The image for your recipe
+recipe_image: images/tahinobiskoto_tahini_almond_honey_biscuits.jpg #The image for your recipe
 image_width: 600
 image_height: 442
 date: 2023-11-12T22:05:03+02:00

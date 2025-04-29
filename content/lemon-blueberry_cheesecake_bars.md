@@ -21,7 +21,7 @@ cook_time: 35 #in minutes or hours #can be BLANK
 
 ## Ingredients
 
-- 1 ½ packets bicuits (Mariee or Digestives)
+- 1 ½ packets biscuits (Mariee or Digestives)
 - 4 tablespoons unsalted butter (1/2 stick), melted
 - 250g cream cheese, at room temperature
 - ¼ cup granulated sugar

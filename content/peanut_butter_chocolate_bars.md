@@ -6,7 +6,7 @@ recipe_image: images/peanut_butter_chocolate_bars.jpg #The image for your recipe
 image_width: 438
 image_height: 400
 date: 2024-11-01T10:05:03+02:00
-tags: ["slice", "bicuits"] #tags for your recipe
+tags: ["slice", "biscuits"] #tags for your recipe
 tagline: ""
 servings: 16
 prep_time: 15 #in minutes #can be BLANK

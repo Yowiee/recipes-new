@@ -8,7 +8,7 @@ image_height: 400
 date: 2025-03-28T23:05:03+02:00
 tags: ["dinner"] #tags for your recipe
 tagline: "With zingy lime & a kick of fresh chilli"
-servings: 6
+servings: 4
 prep_time: 15 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false
 cook_increment: minutes # set to minutes or hours
@@ -18,14 +18,13 @@ cook_time: 15 #in minutes or hours #can be BLANK
 # For ingredient subheadings (if you use them), please use the h4 header.  For print view I have those elements targeted
 ---
 
-
 ## Ingredients
 
-4 x 120g free-range skinless chicken breasts
-3 limes
-6 cloves of garlic
-4 heaped tablespoons peanut butter
-2-3 fresh red chillies
+- 4 x 120g free-range skinless chicken breasts
+- 3 limes
+- 6 cloves of garlic
+- 4 heaped tablespoons peanut butter
+- 2-3 fresh red chillies
 
 ## Directions
 

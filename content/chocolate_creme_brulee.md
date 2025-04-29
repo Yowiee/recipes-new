@@ -6,7 +6,7 @@ recipe_image: images/chocolate_creme_brulee.jpg #The image for your recipe
 image_width: 600
 image_height: 400
 date: 2024-11-07T10:05:03+02:00
-tags: ["bicuits"] #tags for your recipe
+tags: ["biscuits"] #tags for your recipe
 tagline: ""
 servings: 6
 prep_time: 10 #in minutes #can be BLANK

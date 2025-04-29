@@ -6,7 +6,7 @@ recipe_image: images/chocolate_pie_cookies.jpg #The image for your recipe
 image_width: 542
 image_height: 400
 date: 2024-11-01T10:05:03+02:00
-tags: ["dessert", "bicuits"] #tags for your recipe
+tags: ["dessert", "biscuits"] #tags for your recipe
 tagline: ""
 servings: 10
 prep_time: 15 #in minutes #can be BLANK

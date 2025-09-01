@@ -7,7 +7,7 @@ image_width: 533
 image_height: 400
 date: 2024-05-20T22:05:03+02:00
 tags: ["cake", "dessert"] #tags for your recipe
-tagline: "he base of the cake is rich and buttery and is topped with chopped rhubarb and a decadent baked almond custard."
+tagline: "The base of the cake is rich and buttery and is topped with chopped rhubarb and a decadent baked almond custard."
 servings: 8
 prep_time: 15 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false
@@ -22,26 +22,26 @@ cook_time: 60 #in minutes or hours #can be BLANK
 ## Ingredients
 
 #### Rhubarb Filling
-6 cups peeled and chopped rhubarb
-150g white sugar
+- 6 cups peeled and chopped rhubarb
+- 150g white sugar
 
 #### Cake base
-100g unsalted butter, softened
-70g white sugar
-300g all-purpose flour
-2 tablespoons white wine
-2 teaspoons baking powder
-1 large egg
+- 100g unsalted butter, softened
+- 70g white sugar
+- 300g all-purpose flour
+- 2 tablespoons white wine
+- 2 teaspoons baking powder
+- 1 large egg
 
 #### Almond Custard
-90g almond flour
-¾ cup crème fraîche
-2 tablespoons crème fraîche (sub sour cream or Greek yogurt)
-140g white sugar
-2 large eggs
-1 teaspoon vanilla extract
-1 teaspoon ground cinnamon
-1/4 cup sliced almonds (opt)
+- 90g almond flour
+- ¾ cup crème fraîche
+- 2 tablespoons crème fraîche (sub sour cream or Greek yogurt)
+- 140g white sugar
+- 2 large eggs
+- 1 teaspoon vanilla extract
+- 1 teaspoon ground cinnamon
+- 1/4 cup sliced almonds (opt)
 
 ## Directions
 

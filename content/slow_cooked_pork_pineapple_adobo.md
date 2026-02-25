@@ -5,7 +5,7 @@ author: "Taste"
 recipe_image: images/slow_cooked_pork_pineapple_adobo.jpg #The image for your recipe
 image_width: 600
 image_height: 399
-date: 2025-02-21T22:05:03+10:00
+date: 2026-02-21T22:05:03+10:00
 tags: ["dinner", "slow cooked"] #tags for your recipe
 tagline: ""
 servings: 8

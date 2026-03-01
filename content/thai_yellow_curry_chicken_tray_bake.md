@@ -2,7 +2,7 @@
 draft: false
 title: "Thai Yellow Curry Chicken Tray Bake"
 author: "Nargisse Benkabbou"
-recipe_image: images/ .jpg #The image for your recipe
+recipe_image: images/thai_yellow_curry_chicken_tray_bake.jpg #The image for your recipe
 image_width: 600
 image_height: 400
 date: 2026-02-26T22:05:03+02:00

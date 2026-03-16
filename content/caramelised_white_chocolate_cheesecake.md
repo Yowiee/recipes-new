@@ -4,7 +4,7 @@ title: "Caramelised white chocolate cheesecake"
 author: "Benjamina Ebuehi"
 recipe_image: images/caramelised_white_chocolate_cheesecake.jpg #The image for your recipe
 image_width: 600
-image_height: 369
+image_height: 400
 date: 2026-03-15T22:05:03+02:00
 tags: ["cake", "dessert"] #tags for your recipe
 tagline: ""

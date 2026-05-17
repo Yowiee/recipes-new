@@ -24,10 +24,10 @@ cook_time: 40 #in minutes or hours #can be BLANK
 - 227g unsalted butter
 - 57g dark chocolate (around 70%), chopped
 - 113g unsweetened chocolate, chopped
-- ½ cup (42g) Dutch-process cocoa powder
+- 1/2 cup (42g) Dutch-process cocoa powder
 - 5 large eggs, room temperature
 - 1 tablespoon vanilla extract
-- 2¼ cups (450g) superfine sugar
+- 2 1/4 cups (450g) superfine sugar
 - 1 cup (140g) all-purpose flour*
 - 1 teaspoon table salt
 - 227g chocolate chips

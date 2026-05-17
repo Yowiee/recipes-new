@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Brownie"
-author: "NYT Cooking"
+author: "Kate Jenkins"
 recipe_image: images/brownie2.jpg #The image for your recipe
 image_width: 600
 image_height: 400

@@ -3,7 +3,7 @@ draft: false
 title: "Ground beef curry"
 author: "Andy Cooks"
 recipe_image: images/ground_beef_curry.jpg #The image for your recipe
-image_width: 560
+image_width: 562
 image_height: 400
 date: 2026-05-17T21:05:03+10:00
 tags: ["dinner"] #tags for your recipe

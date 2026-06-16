@@ -6,7 +6,7 @@ recipe_image: images/slow_cooker_hoisin_garlic_chicken.jpg #The image for your r
 image_width: 533
 image_height: 400
 date: 2025-10-15T22:05:03+10:00
-tags: ["dinner"] #tags for your recipe
+tags: ["dinner", "slow cooked"] #tags for your recipe
 tagline: ""
 servings: 6
 prep_time: 15 #in minutes #can be BLANK

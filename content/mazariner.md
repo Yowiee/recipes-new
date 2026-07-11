@@ -3,7 +3,7 @@ draft: false
 title: "Mazariner – Scandinavian Almond Tartlets"
 author: "Scandinavian cookbook"
 recipe_image: images/mazariner.jpg #The image for your recipe
-image_width: 501
+image_width: 465
 image_height: 400
 date: 2026-07-11T21:05:03+10:00
 tags: ["snack", "dessert"] #tags for your recipe
@@ -53,3 +53,7 @@ Bake the mazariner for 20 – 25 minutes, until light golden brown. Cool on a wi
 
 #### Glaze
 6. Mix together the powdered sugar and liquid until you get a spreadable glaze. Spread the glaze on top of the mazariner and if you wish, decorate with sprinkles, or anything you like.
+
+
+#### Notes
+https://scandinaviancookbook.com/mazariner-scandinavian-almond-tartlets/

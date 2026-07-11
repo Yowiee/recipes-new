@@ -6,8 +6,8 @@ recipe_image: images/greek_yogurt_zucchini_bread.jpg #The image for your recipe
 image_width: 576
 image_height: 400
 date: 2026-07-08T19:05:03+10:00
-tags: ["dessert", "cake", "gluten_free"] #tags for your recipe
-tagline: "This Almond Flour Apple Cake is a tender and moist apple cinnamon cake with streusel topping and a powdered sugar glaze. It’s naturally gluten-free and dairy-free and super easy to make!"
+tags: ["dessert", "cake"] #tags for your recipe
+tagline: ""
 servings: 10
 prep_time: 15 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false

@@ -2,7 +2,7 @@
 draft: false
 title: "Scones"
 author: ""
-recipe_image: images/coffee_pecan_squares.jpg #The image for your recipe
+recipe_image: images/scones.jpg #The image for your recipe
 image_width: 534
 image_height: 400
 date: 2026-06-30T21:05:03+10:00

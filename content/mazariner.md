@@ -54,6 +54,5 @@ Bake the mazariner for 20 – 25 minutes, until light golden brown. Cool on a wi
 #### Glaze
 6. Mix together the powdered sugar and liquid until you get a spreadable glaze. Spread the glaze on top of the mazariner and if you wish, decorate with sprinkles, or anything you like.
 
-
 #### Notes
 https://scandinaviancookbook.com/mazariner-scandinavian-almond-tartlets/

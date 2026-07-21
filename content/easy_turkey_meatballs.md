@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Easy Turkey Meatballs"
-author: "Taste
+author: "Taste"
 recipe_image: images/easy_turkey_meatballs.jpg #The image for your recipe
 image_width: 521
 image_height: 400

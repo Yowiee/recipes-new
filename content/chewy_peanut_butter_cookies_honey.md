@@ -19,7 +19,7 @@ cook_time: 10 #in minutes or hours #can be BLANK
 
 ## Ingredients
 
-- 210 g plain flour
+- 210 g plain flour (see note)
 - 1 teaspoon baking soda
 - ¾ teaspoon salt
 - 260 g smooth peanut butter

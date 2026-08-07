@@ -5,7 +5,7 @@ author: "Jimi Famurewa"
 recipe_image: images/banana_date_crumble_muffins.jpg #The image for your recipe
 image_width: 505
 image_height: 400
-date: 2026-08-07T20 :05:03+10:00
+date: 2026-08-07T20:05:03+10:00
 tags: ["biscuits", "snack"] #tags for your recipe
 tagline: ""
 servings: 12

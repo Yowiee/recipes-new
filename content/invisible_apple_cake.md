@@ -5,7 +5,7 @@ author: "David Lebovitz"
 recipe_image: images/invisible_apple_cake.jpg #The image for your recipe
 image_width: 538
 image_height: 400
-date: 2026-08-07T21:05:03+10:00
+date: 2026-08-07T20:05:03+10:00
 tags: ["cake", "dessert"] #tags for your recipe
 tagline: "gâteau invisible aux pommes"
 servings: 12

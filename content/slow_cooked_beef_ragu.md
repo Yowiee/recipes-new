@@ -5,7 +5,7 @@ author: "Recipetin Eats"
 recipe_image: images/slow_cooked_beef_ragu.jpg #The image for your recipe
 image_width: 576
 image_height: 400
-date: 2026-08-07T22:05:03+10:00
+date: 2026-08-07T20:05:03+10:00
 tags: ["dinner", "slow cooked"] #tags for your recipe
 tagline: ""
 servings: 6

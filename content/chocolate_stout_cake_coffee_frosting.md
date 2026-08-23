@@ -38,9 +38,17 @@ cook_time: 30 #in minutes or hours #can be BLANK
 - 1 Tbsp water
 - 1 tsp vanilla extrac
 
+#### Alternate cappuccino frosting:
+- 2 tablespoons instant coffee powder
+- 125g cream cheese, softened  
+- 125g salted butter, room temperature  
+- 2½ cups icing mixture
+- 1 teaspoon vanilla paste
+- Cocoa powder, dusted, to serve 
+
 ## Directions
 
-For the Chocolate Stout Cake
+#### For the Chocolate Stout Cake
 1. Preheat oven to 175°C (155°C fan).
 2. Grease and flour (2) 9” cake pans. Line bottoms of the pans with parchment paper. Set pans aside. (Note: Make sure the pans are at least 2” deep.)
 3. Using a large saucepan, add beer and butter; place over medium heat until butter has fully melted and mixture just begins to simmer.
@@ -57,3 +65,7 @@ For the Chocolate Stout Cake
 1. Using a countertop mixer, cream together the butter and confectioner’s sugar until light and fluffy.
 2. Using a small bowl, whisk together the espresso powder and water. Add this mixture and the vanilla extract to the bowl; mix until well combined.
 3. Place one cake layer on large platter. Spread ~¾ cup of frosting on top. Place 2nd layer of cake on top. Use remaining frosting on top and sides of cake.
+
+#### Alternate cappuccino frosting:
+1. Place the coffee granules into a small bowl, add a tablespoon of boiling water, dissolve the coffee and mix into a wet paste. Add a touch more boiling water if needed.
+2. Place the cream cheese into the bowl of a stand mixer, add the butter and vanilla, and beat to combine. Now beat in the icing sugar a cup at a time, until your frosting is light and of a pipeable consistency. Now beat in the coffee paste until it's all incorporated.

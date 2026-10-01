@@ -5,7 +5,7 @@ author: "Good Food"
 recipe_image: images/caramel_apple_cinnamon_buns.jpg #The image for your recipe
 image_width: 400
 image_height: 283
-date: 2026-0917T20:05:03+10:00
+date: 2026-09-21T20:05:03+10:00
 tags: ["cake", "dessert"] #tags for your recipe
 tagline: ""
 servings: 12
@@ -38,7 +38,7 @@ cook_time: 25 #in minutes or hours #can be BLANK
 - 1 tbsp cinnamon
 
 #### Icing
-- 150g soft cheese
+- 150g soft cream cheese
 - 150g icing sugar
 - large pinch of cinnamon
 - 3 tbsp canned caramel

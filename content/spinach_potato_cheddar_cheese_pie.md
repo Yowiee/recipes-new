@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "spinach, potato and cheddar cheese pie"
+title: "Spinach, potato and cheddar cheese pie"
 author: "Hetty Lui McKinnon"
 recipe_image: images/spinach_potato_cheddar_cheese_pie.jpg #The image for your recipe
 image_width: 561
